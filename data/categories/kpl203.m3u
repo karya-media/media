@@ -16,9 +16,9 @@
 
 <===========================================================>
 
-#EXTINF:-1 group-title="EVENT 09/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
+https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 group-title="EVENT 011/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 
 <================>
@@ -2705,30 +2705,16 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 09/NOVEMBER/2026" tvg-logo="https://shorter.me/mfdOq", 09:00 WIB YEOSU Victor Korea Open 2026
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/mfdOq", 09:00 WIB YEOSU Victor Korea Open 2026
+#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", TES
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 09/NOVEMBER/2026" tvg-logo="https://iili.io/fNSc23v.md.png", 23:00 WIB Slaviya Sofia vs Maritza 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Daejeon Bluefangs vs Suwon Vixtorm
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0006/yjbnjyqvnqs94anc2nxtxmxtk6legdwhvqv8/nfiijoujmatnxkpwsm51etk6legdwhvnfp_hls_playlist.m3u8?hdnts=st=1794303981~exp=1794365191~acl=*/yjbnjyqvnqs94anc2nxtxmxtk6legdwhvqv8/*~hmac=cdd668c679a80081234d0533c45e83f053fbceb74faed9d584cd1a822e0b3c83
 
-#EXTINF:-1 group-title="EVENT 09/NOVEMBER/2026" tvg-logo="https://iili.io/fNScxGs.md.png", 23:30 WIB Olsztyn vs Politechnika Lublin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://iili.io/fNScJ6J.md.png", 00:00 WIB Czarni Radom vs Anioly Torun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel81.m3u8?wsSecret=59c428248fcf6616b516d7781ce76db9&wsABSTime=1794242600
-
-#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://iili.io/fNScJ6J.md.png", 02:30 WIB  Opole vs Mogilno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel83.flv?wsSecret=a3c8ce76fe6cd36157c32cdc3a74d0c4&wsABSTime=1794242738
+#EXTINF:-1 group-title="EVENT 010/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB SOOP Supers (W) vs IBK Altos (W)
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0010/zw3rtfxfrgedft0cvp7gvghou6li4ty6memg/snkshysyppala57zuiwpptt6li4ty6mbd1_hls_playlist.m3u8?hdnts=st=1794304005~exp=1794365215~acl=*/zw3rtfxfrgedft0cvp7gvghou6li4ty6memg/*~hmac=ecff7b1f3a38c2a988235fdefa5f7f002f5d95c8028806df5a42aaa79cb8557b

@@ -555,9 +555,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dmxSG5d/daaitv.png" group-title="DAERAH",DAAI TV 🇮🇩
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://pull.daaiplus.com/live-DAAITV/livestream-DAAITV.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsESlZzrBmSfJgLESkGisoFXxwQRGlqzIDDA&s" group-title="INDONESIA",DAAI TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -8019,7 +8016,7 @@ https://ls-mp04stg.eo-edgefunctions7.com/out/v1/5793335474d74566a8a0adfa260f22a9
 https://tglmp01.akamaized.net/out/v1/c404d0cfb23e4b1c89d4f6325e92a4e9/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Tqw1DV9f/livevnt.png" group-title="EVENT",EVENT FCD 1 🇮🇳
 https://abgpu4gaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fnKkgw/f1raceinfo.png" group-title="F1 ️",31 Oct-02 Nov GRAND PRIX 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fnKkgw/f1raceinfo.png" group-title="F1 ️",20-22 Nov 🇺🇸 GRAND PRIX 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://i.ibb.co.com/XJjvSbx/f1.png" group-title="Brazil;F1 ️",F1 GP 🇧🇷
@@ -8029,7 +8026,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 https://n-121-7.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XJjvSbx/f1.png" group-title="F1 ️",F1 TV (NOT LIVE)
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rkNv7dK/motoraceinfo.png" group-title="MotoGP ️",30 Oct-01 Nov 🇲🇾 Grand Prix 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rkNv7dK/motoraceinfo.png" group-title="MotoGP ️",20-22 Nov 🇵🇹 Grand Prix 2026
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co.com/NVPBMds/motogepe.png" group-title="United Kingdom;MotoGP ️",MotoGP 🇬🇧
 https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
@@ -8083,7 +8080,7 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c6
 #EXTINF:-1 tvg-id="beINSPORTS3HD.sg" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="Singapore;SPORTS;FOOTBALL",beIN Sports 3 🇦🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 group-title="SPORTS",BeIN sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jJPrP6c/beinsp.png" group-title="SPORTS",BeIN sports 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lott2-reach-opus.cdn.avp.telus.net/232006003016/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zNhs5Nj/beinspes.png" group-title="SPORTS",BEIN SPORTS En Español
@@ -9234,31 +9231,23 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQDNM3cz/trtarab.png" group-title="NEWS",TRT ARABI 🇹🇷
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareem-Channel93.id" tvg-logo="https://i.ibb.co.com/1zFVnXg/makkahlive.png" group-title="Indonesia;RELIGION",MAKKAH LIVE 🕋 ☪
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3zB0gVk/madinahlive.png" group-title="RELIGION",MADINAH LIVE ☪
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
 #EXTINF:-1 tvg-name="AL WAFA TARIM" tvg-logo="https://i.ibb.co.com/88WVNkd/alwafatarim.png" group-title="RELIGION",AL WAFA TARIM 🇮🇩 ☪
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JvxfGrF/tvmuh.png" group-title="RELIGION",TV MUHAMMADIYAH 🇮🇩 ☪
 https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V944pNG/ewtn.png" group-title="RELIGION",EWTN 🇺🇸 ✝
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mediampd/EWTN.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M51jRbV/reformed21.png" group-title="RELIGION",REFORMED 21 🇮🇩 ✝
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",RTB SUKMAINDERA 🇧🇳
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",KCNA 🇰🇵
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",KCTV 🇰🇵
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://kctv.koryofront.org/stream/index.m3u8
+https://live.koryocdn.org/kctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",Athletic TV 🇰🇵
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live.koryocdn.org/sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",Ryongnamsan TV 🇰🇵
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",EDU TV 🇲🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
@@ -9285,9 +9274,6 @@ https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",QAZAQSTAN TV 🇰🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",QAZ SPORT 🇰🇿
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png" group-title="Europe",RSI LA 1 🇨🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=en
@@ -9566,39 +9552,37 @@ https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c36Qkdm/musawatv.png" group-title="Palestine",Musawa Channel 🇵🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.ibb.co.com/L5xTZgk/asawani.png" group-title="Malaysia;Asia",AWANI 🇲🇾
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Malaysia;Asia",AWANI 🇲🇾
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 group-title="Asia",RTM Apetito 🇲🇾
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",RTM Apetito 🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8
-#EXTINF:-1 group-title="Asia",RTM Aura 🇲🇾
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",RTM Aura 🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8
-#EXTINF:-1 group-title="Asia",RTM Fitrah 🇲🇾
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",RTM Fitrah 🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8
-#EXTINF:-1 group-title="Asia",RTM Junior 🇲🇾
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",RTM Junior 🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8
-#EXTINF:-1 group-title="Asia",RTM Lead 🇲🇾
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",RTM Lead 🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8
-#EXTINF:-1 group-title="Asia",RTM Roll 🇲🇾
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",RTM Roll 🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8
-#EXTINF:-1 group-title="Asia",RTM Snap 🇲🇾
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",RTM Snap 🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8
-#EXTINF:-1 group-title="Asia",TVS+ 🇲🇾
-https://stream2.smg.my/live/tvsplus.m3u8
-#EXTINF:-1 group-title="Asia",Oh My Ceria! 🇲🇾
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h23kXZ2/aslabel.png" group-title="Asia",Oh My Ceria! 🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 #EXTINF:-1 tvg-id="97098" tvg-logo="https://i.ibb.co.com/pj0SBWf/m5.png" group-title="Singapore",Channel 5 🇸🇬
@@ -9609,28 +9593,24 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #EXTINF:-1 tvg-id="97096" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png" group-title="Singapore",Channel Vasantham 🇸🇬
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-#EXTINF:-1 tvg-id="840096" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH01
+#EXTINF:-1 tvg-id="840096" tvg-logo="https://da.gd/yogdkrall" group-title="Singapore;EVENT",YOG DAKAR 2026 CH01
 https://tglmp03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
-#EXTINF:-1 tvg-id="822074" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH02
+#EXTINF:-1 tvg-id="822074" tvg-logo="https://da.gd/yogdkrall" group-title="Singapore;EVENT",YOG DAKAR 2026 CH02
 https://tglmp01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
-#EXTINF:-1 tvg-id="822077" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH03
+#EXTINF:-1 tvg-id="822077" tvg-logo="https://da.gd/yogdkrall" group-title="Singapore;EVENT",YOG DAKAR 2026 CH03
 https://tglmp02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
-#EXTINF:-1 tvg-id="822076" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH04
+#EXTINF:-1 tvg-id="822076" tvg-logo="https://da.gd/yogdkrall" group-title="Singapore;EVENT",YOG DAKAR 2026 CH04
 https://tglmp04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
-#EXTINF:-1 tvg-id="840095" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH05
+#EXTINF:-1 tvg-id="840095" tvg-logo="https://da.gd/yogdkrall" group-title="Singapore;EVENT",YOG DAKAR 2026 CH05
 https://tglmp03.akamaized.net/out/v1/c2dd987e84784d478cb0e9eb797fda5d/manifest.mpd
-#EXTINF:-1 tvg-id="840093" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH06
+#EXTINF:-1 tvg-id="840093" tvg-logo="https://da.gd/yogdkrall" group-title="Singapore;EVENT",YOG DAKAR 2026 CH06
 https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.mpd
-#EXTINF:-1 tvg-id="840098" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH07
-https://tglmp02.akamaized.net/out/v1/ce69826a52c84c64ade5487a1e38f82d/manifest.mpd
-#EXTINF:-1 tvg-id="580750" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH04
+#EXTINF:-1 tvg-id="580750" tvg-logo="https://da.gd/yogdkrall" group-title="Singapore;EVENT",YOG DAKAR 2026 CH04
 https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-#EXTINF:-1 tvg-id="840095" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH05
+#EXTINF:-1 tvg-id="840095" tvg-logo="https://da.gd/yogdkrall" group-title="Singapore;EVENT",YOG DAKAR 2026 CH05
 https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-#EXTINF:-1 tvg-id="840093" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH06
+#EXTINF:-1 tvg-id="840093" tvg-logo="https://da.gd/yogdkrall" group-title="Singapore;EVENT",YOG DAKAR 2026 CH06
 https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
-#EXTINF:-1 tvg-id="840098" tvg-logo="https://i.ibb.co.com/JWWt4G2g/Logo-Pesta-Olahraga-Asia-2026-svg.png" group-title="Singapore;EVENT",AG Aichi–Nagoya CH07
-https://ls-mp02.eo-edgefunctions7.com/out/v1/ce69826a52c84c64ade5487a1e38f82d/manifest.mpd
 #EXTINF:-1 tvg-id="558278" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089891'&EntityType='Item'&EntityId='558278'&Width=62&Height=59" group-title="Singapore",MasterChef
 https://tglmp03.akamaized.net/out/v1/5623928a97774b698b3404a843a827d6/manifest.mpd
 #EXTINF:-1 tvg-id="558258" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089337'&EntityType='Item'&EntityId='558258'&Width=150&Height=59" group-title="Singapore",Fear Factor
@@ -9754,30 +9734,110 @@ https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborBarat.stream/p
 https://mitradarat-vidstream.kemenhub.go.id/stream/GWNPINTUMASUK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA",TERMINAL GIWANGAN 2
 https://mitradarat-vidstream.kemenhub.go.id/stream/GWNPINTUKELUAR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",1
-https://jakcctv.jakarta.go.id/Kebon-Melati-010-700332_2/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",2
-https://jakcctv.jakarta.go.id/Bendungan-Hilir-003-700014_1/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",3
-https://dki-jkt.balitower.co.id:7028/502492_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C08_CCTV-02/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",4
-https://dki-jkt.balitower.co.id:7028/502492_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C08_CCTV-01/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",5
-https://dki-jkt.balitower.co.id:7028/501941_JKP_SATPOLPP_JL.-MH.-THAMRIN-C02_CCTV-02/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",6
-https://dki-jkt.balitower.co.id:7028/502493_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C09_CCTV-01/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",UOB PLAZA 1
-https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-01/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",UOB PLAZA 2
-https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-02/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",UOB PLAZA 3
-https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-03/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",A
-https://dki-jkt.balitower.co.id:7028/502535_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C07_CCTV-01/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",B
-https://dki-jkt.balitower.co.id:7028/502535_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C07_CCTV-02/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",C
-https://dki-jkt.balitower.co.id:7028/502645_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C08_CCTV-02/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JPO JL. GATOT SUBROTO 7 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502045_JKP_POLDA_JPO-JL.-GATOT-SUBROTO-7_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JPO JL. GATOT SUBROTO 7 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502045_JKP_POLDA_JPO-JL.-GATOT-SUBROTO-7_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. GERBANG PEMUDA C02 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502155_JKP_POLDA_JL.-GERBANG-PEMUDA-C02_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. GERBANG PEMUDA C02 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502155_JKP_POLDA_JL.-GERBANG-PEMUDA-C02_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. GERBANG PEMUDA C03 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502160_JKP_POLDA_JL.-GERBANG-PEMUDA-C03_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. GERBANG PEMUDA C03 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502160_JKP_POLDA_JL.-GERBANG-PEMUDA-C03_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP JL. GERBANG PEMUDA C04 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502506_JKP_SATPOL-PP_JL.-GERBANG-PEMUDA-C04_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP JL. GERBANG PEMUDA C04 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502506_JKP_SATPOL-PP_JL.-GERBANG-PEMUDA-C04_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP JL. JEND. GATOT SUBROTO C11 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502507_JKP_SATPOL-PP_JL.-JEND.-GATOT-SUBROTO-C11_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP JL. JEND. GATOT SUBROTO C11 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502507_JKP_SATPOL-PP_JL.-JEND.-GATOT-SUBROTO-C11_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKB SATPOL PP SIMPANG JL. LETJEN. S. PARMAN C07 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502535_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C07_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKB SATPOL PP SIMPANG JL. LETJEN. S. PARMAN C07 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502535_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C07_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKB SATPOL PP SIMPANG JL. LETJEN. S. PARMAN C08 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502645_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C08_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKB SATPOL PP SIMPANG JL. LETJEN. S. PARMAN C08 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502645_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C08_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. JEND. GATOT SUBROTO C13 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/503300_JKP_POLDA_JL.-JEND.-GATOT-SUBROTO-C13_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. JEND. GATOT SUBROTO C13 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/503300_JKP_POLDA_JL.-JEND.-GATOT-SUBROTO-C13_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. TENTARA PELAJAR C04 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/503301_JKP_POLDA_JL.-TENTARA-PELAJAR-C04_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. TENTARA PELAJAR C04 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/503301_JKP_POLDA_JL.-TENTARA-PELAJAR-C04_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. JEND. GATOT SUBROTO C14 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/503303_JKP_POLDA_JL.-JEND.-GATOT-SUBROTO-C14_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLDA JL. JEND. GATOT SUBROTO C14 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/503303_JKP_POLDA_JL.-JEND.-GATOT-SUBROTO-C14_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP DBM FLYOVER LADOKGI C01 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/503536_JKP_DBM_FLYOVER-LADOKGI-C01_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP DBM FLYOVER LADOKGI C01 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/503536_JKP_DBM_FLYOVER-LADOKGI-C01_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP SIMPANG JL. MH. THAMRIN C07 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502491_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C07_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP SIMPANG JL. MH. THAMRIN C07 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502491_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C07_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP SIMPANG JL. MH. THAMRIN C08 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502492_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C08_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP SIMPANG JL. MH. THAMRIN C08 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502492_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C08_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP DISHUB JL. MH. THAMRIN C01 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/501844_JKP_DISHUB_JL.-MH.-THAMRIN-C01_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP DISHUB JL. MH. THAMRIN C01 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/501844_JKP_DISHUB_JL.-MH.-THAMRIN-C01_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOLPP JL. MH. THAMRIN C02 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/501941_JKP_SATPOLPP_JL.-MH.-THAMRIN-C02_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOLPP JL. MH. THAMRIN C02 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/501941_JKP_SATPOLPP_JL.-MH.-THAMRIN-C02_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP SIMPANG JL. MH. THAMRIN C09 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502493_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C09_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP SATPOL PP SIMPANG JL. MH. THAMRIN C09 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502493_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C09_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLRI UOB PLAZA C01 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLRI UOB PLAZA C01 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",JKP POLRI UOB PLAZA C01 (CCTV-03)
+https://dki-jkt.balitower.co.id:7028/504866_JKP_POLRI_UOB-PLAZA-C01_CCTV-03/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Taman Literasi-C01 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/501478_JKS_SATPOLPP_TAMAN-LITERASI-C01_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Simpang Jl. Panglima Polim-C01 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/501493_JKP_SATPOLPP_PASAR-TANAH-ABANG-C02_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Jl. Sultan Agung-C03 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/501594_JKS_DISGULKARMAT_JL.-MANGGARAI-UTARA-2-C01_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Simpang Jl. Sultan Agung-C01 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/501862_JKB_DISHUB_JL.-LETJEN.-S.-PARMAN-C01_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Simpang Jl. Sultan Agung-C01 (CCTV-03)
+https://dki-jkt.balitower.co.id:7028/501862_JKB_DISHUB_JL.-LETJEN.-S.-PARMAN-C01_CCTV-03/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Simpang Jl. Sultan Agung-C02 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502041_JKP_POLDA_JL.-KH.-MAS-MANSYUR-C02_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Pasar Tanah Abang-C02 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/502540_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C02_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Pasar Tanah Abang-C02 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/502540_JKB_SATPOL-PP_SIMPANG-JL.-LETJEN.-S.-PARMAN-C02_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Jl. KH. Mas Mansyur-C02 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/503343_JKP_DBM_JPO-JL.-CIDENG-TIMUR-C02_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Jl. KH. Mas Mansyur-C02 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/503343_JKP_DBM_JPO-JL.-CIDENG-TIMUR-C02_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Jl. Jati Baru Raya-C02 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/503675_JKP_BAKESBANGPOL_JL.-JATI-BARU-RAYA-C02_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Simpang Jl Nurdin Raya C01 (CCTV-01)
+https://dki-jkt.balitower.co.id:7028/501968-Simpang-Jl-Nurdin-Raya-C01_CCTV-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Simpang Jl Nurdin Raya C01 (CCTV-02)
+https://dki-jkt.balitower.co.id:7028/501968-Simpang-Jl-Nurdin-Raya-C01_CCTV-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Senayan 018 (CCTV-2)
+https://jakcctv.jakarta.go.id/Senayan-018-705979_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Senayan 001 (CCTV-2)
+https://jakcctv.jakarta.go.id/Senayan-001-705084_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Bendungan Hilir 003 (CCTV-1)
+https://jakcctv.jakarta.go.id/Bendungan-Hilir-003-700014_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Kebon Melati 010 (CCTV-2)
+https://jakcctv.jakarta.go.id/Kebon-Melati-010-700332_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Cikupa entrance
 https://cctv.mms-corp.id/cikupa-entrance/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV",Cikupa exit
@@ -19592,8 +19652,6 @@ https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KordiaTV.nzSD" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="New Zealand;Uncategorized",Kordia TV (1080p)
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kpHD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea;Uncategorized",Korean Central Television (1080p) [Not 24/7]
-https://live.koryocdn.org/kctv/index.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kpSD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="North Korea;Uncategorized" http-referrer="https://kcnawatch.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television SD (576p)
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -26332,8 +26390,6 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rybolov.ruSD" tvg-logo="https://i.imgur.com/wJMTcFS.png" group-title="Russia;Outdoor",Rybolov (576p)
 http://stream.mcquack.net/264/index.m3u8
-#EXTINF:-1 tvg-id="RyongnamsanTelevision.kpHD" tvg-logo="https://i.imgur.com/1BHJjY4.png" group-title="North Korea;Education",Ryongnamsan Television (720p) [Not 24/7]
-https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ruSD" tvg-logo="https://i.imgur.com/acrU2IE.png" group-title="Russia;Kids",Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RZDTV.ruSD" tvg-logo="https://i.imgur.com/lf1r9L6.png" group-title="Russia;Uncategorized",RZD TV (1080p) [Geo-blocked]
@@ -27564,8 +27620,6 @@ https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ruSD" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Russia;Sports",Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 tvg-id="SportsTelevision.kpHD" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="North Korea;Sports",Sports Television (720p) [Not 24/7]
-https://live.koryocdn.org/sports/index.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.usSD" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="United States;Sports",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SporTV2.brSD" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="Brazil;Sports",SporTV 2 (1080p)
@@ -32623,7 +32677,7 @@ http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.deSD" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Germany;Music",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 09/NOVEMBER/2026",001 TRAKTIR KOPI
+#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 010/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="CADANGAN EVENT",PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -32852,6 +32906,9 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/243/547/png-clipart-catholictv-television-religious-broadcasting-logo-brand-woodlawn-cemetery-tampa-catholictv-television.png" group-title="Christian Channels" tvg-url="",Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/943/49943-SNAPSHOT-l.png" group-title="Christian Channels" tvg-url="https://bit.ly/IndonesiaEpg",Reformed21
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/JbtoTuV.png" group-title="TV LOKAL",Prima TV
 https://primatv.siar.us/primatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV90s" tvg-logo="https://www.visionplus.id/images/repository/950/49950-SNAPSHOT-l.png" group-title="Music" tvg-url="https://bit.ly/IndonesiaEpg",MTV 90's
@@ -33049,18 +33106,10 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9kg0yi
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" group-title="MOVIES/SERIES KBTRTV" type="movie",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
-#EXTINF:-1 tvg-logo="https://iili.io/fNScxGs.md.png" group-title="EVENT 09/NOVEMBER/2026",23:30 WIB Olsztyn vs Politechnika Lublin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/fNScJ6J.md.png" group-title="EVENT 010/NOVEMBER/2026",00:00 WIB Czarni Radom vs Anioly Torun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel81.m3u8?wsSecret=59c428248fcf6616b516d7781ce76db9&wsABSTime=1794242600
-#EXTINF:-1 tvg-logo="https://iili.io/fNScJ6J.md.png" group-title="EVENT 010/NOVEMBER/2026",02:30 WIB  Opole vs Mogilno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel83.flv?wsSecret=a3c8ce76fe6cd36157c32cdc3a74d0c4&wsABSTime=1794242738
+#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="EVENT 010/NOVEMBER/2026",17:00 WIB Daejeon Bluefangs vs Suwon Vixtorm
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0006/yjbnjyqvnqs94anc2nxtxmxtk6legdwhvqv8/nfiijoujmatnxkpwsm51etk6legdwhvnfp_hls_playlist.m3u8?hdnts=st=1794303981~exp=1794365191~acl=*/yjbnjyqvnqs94anc2nxtxmxtk6legdwhvqv8/*~hmac=cdd668c679a80081234d0533c45e83f053fbceb74faed9d584cd1a822e0b3c83
+#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="EVENT 010/NOVEMBER/2026",17:00 WIB SOOP Supers (W) vs IBK Altos (W)
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0010/zw3rtfxfrgedft0cvp7gvghou6li4ty6memg/snkshysyppala57zuiwpptt6li4ty6mbd1_hls_playlist.m3u8?hdnts=st=1794304005~exp=1794365215~acl=*/zw3rtfxfrgedft0cvp7gvghou6li4ty6memg/*~hmac=ecff7b1f3a38c2a988235fdefa5f7f002f5d95c8028806df5a42aaa79cb8557b
 #EXTINF:-1 group-title="PERINGATAN",❌ AKSES ILEGAL TERDETEKSI
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 group-title="SUMBER RESMI",👉 DAPATKAN PLAYLIST ASLI & LANCAR
