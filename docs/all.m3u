@@ -32677,7 +32677,7 @@ http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.deSD" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Germany;Music",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 012/NOVEMBER/2026",001 TRAKTIR KOPI
+#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 013/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="CADANGAN EVENT",PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -33106,27 +33106,25 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9kg0yi
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" group-title="MOVIES/SERIES KBTRTV" type="movie",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="EVENT 012/NOVEMBER/2026",07:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369797355273061_AiSD.m3u8?txSecret=72f05abd62e96f1862eb59d30b11e165&txTime=6AF636E0
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="EVENT 012/NOVEMBER/2026",07:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369797496106061_AiSD.m3u8?txSecret=400d7d6105284a3f7eb646d458b17a15&txTime=6AF636E0
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="EVENT 012/NOVEMBER/2026",07:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369797621701061_AiSD.m3u8?txSecret=9554cd3146840e8d2660d282c4b13d8c&txTime=6AF636E0
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="EVENT 012/NOVEMBER/2026",07:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369797744275061_AiSD.m3u8?txSecret=3dee31ae8031c1ab3436a9889211bb6c&txTime=6AF636E0
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="CADANGAN EVENT",07:00 WIB Kumamoto Masters Japan 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="EVENT 013/NOVEMBER/2026",08:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369798351523061_AiSD.m3u8?txSecret=23a7ebbe5214a1c39ab22845a3c7052b&txTime=6AF78860
+#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="EVENT 013/NOVEMBER/2026",08:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369798544184061_AiSD.m3u8?txSecret=f793e5e53d54e4d6a8127faf73f2353e&txTime=6AF78860
+#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="EVENT 013/NOVEMBER/2026",08:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369798732606061_AiSD.m3u8?txSecret=be7b2ca8742dc313c43a18ac4a00eb6e&txTime=6AF78860
+#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="CADANGAN EVENT",08:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=9e42854ab5fa11f549cbe2eb694d09f1&wsABSTime=1794414263
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="CADANGAN EVENT",07:00 WIB Kumamoto Masters Japan 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="CADANGAN EVENT",08:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=dff878600f53ccaceb01b742dea13387&wsABSTime=1794415759
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="CADANGAN EVENT",07:00 WIB Kumamoto Masters Japan 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="CADANGAN EVENT",08:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=c1817b1932a16e57078d312ce27f5f64&wsABSTime=1794414498
-#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="CADANGAN EVENT",07:00 WIB Kumamoto Masters Japan 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/TmD2e" group-title="CADANGAN EVENT",08:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f2b9f6da4c59b98d8c310f0625386b33&wsABSTime=1794414455
