@@ -16,9 +16,9 @@
 
 <===========================================================>
 
-#EXTINF:-1 group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
-https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 #EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
+https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://iili.io/KxLFPLJ.md.png",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
 
 <================>
@@ -27,7 +27,14 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 <================>
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Serbia vs Jerman
+#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/Ea8Hm", 15:30 WIB Indonesia U-17 vs Kamboja U-17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 00:00 WIB Georgia vs Hungaria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -35,7 +42,7 @@ https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 00:00 WIB Moldova vs Kazakhstan
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 00:00 WIB Norwegia vs Wales
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -43,7 +50,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Belanda vs Yunani
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Portugal vs Denmark
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -51,22 +58,24 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Bulgaria vs Islandia
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Swedia vs Bosnia Herzegovina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Irlandia Utara vs Ukraina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Slovenia vs Swiss
+#EXTINF:-1 group-title="EVENT 015/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Austria vs Republik Irlandia
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/JHxeb", 02:45 WIB Skotlandia vs Makedonia Utara
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
-
-<================================================>
 <================================================>
 <=================== CADANGAN =============================>
 <================================================>
@@ -2745,12 +2754,9 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
 
 <=================== Badminton =============================>
 
-#EXTINF:-1 group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369798351523061_AiSD.m3u8?txSecret=23a7ebbe5214a1c39ab22845a3c7052b&txTime=6AF78860
-#EXTINF:-1 group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369798544184061_AiSD.m3u8?txSecret=f793e5e53d54e4d6a8127faf73f2353e&txTime=6AF78860
-#EXTINF:-1 group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369798732606061_AiSD.m3u8?txSecret=be7b2ca8742dc313c43a18ac4a00eb6e&txTime=6AF78860
+#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369799164241061_AiSD.m3u8?txSecret=187f0fe356e58922bb5aef84ea87f538&txTime=6AF8D9E0
+#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -2776,8 +2782,3 @@ https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f2b9f6da4c59b98d
 
 <================================================>
 
-#EXTINF:-1 group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB Suwon Vixtorm vs Uijeongbu KB Insurance Stars
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0009/i7gi8bpzf0uykafgpaluj9tuy285ekyctsdo/dy4sdxrnx1epm4hej4zfdpa285ekyctjzo_hls_playlist.m3u8?hdnts=st=1794563321~exp=1794624531~acl=*/i7gi8bpzf0uykafgpaluj9tuy285ekyctsdo/*~hmac=adf4f23776c4839c6dd0e4673147ba4314cf085761ca3b08f016d3f17c11ed59
-
-#EXTINF:-1 group-title="EVENT 013/NOVEMBER/2026" tvg-logo="https://shorter.me/yDHTs", 17:00 WIB IBK Altos (W) vs Heungkuk Pink Spiders (W)
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0010/qfvqngne00f5qw3nx9nvxgyrxahuplmelf4n/tngmygmxmwr3qwopjqotdj2ahuplmelavp_hls_playlist.m3u8?hdnts=st=1794563361~exp=1794624571~acl=*/qfvqngne00f5qw3nx9nvxgyrxahuplmelf4n/*~hmac=f01fed049453b50fa639a0fd3782a91abd7cc4c81f8c4a6a1409019c791edce0
