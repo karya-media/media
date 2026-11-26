@@ -32646,16 +32646,12 @@ http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.deSD" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Germany;Music",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 025/NOVEMBER/2026",001 TRAKTIR KOPI
+#EXTINF:-1 tvg-logo="https://iili.io/KxLFPLJ.md.png" group-title="EVENT 026/NOVEMBER/2026",001 TRAKTIR KOPI
 https://drive.google.com/uc?export=download&id=1GXT2ntc4zPZPQtiotFTTvhkwrdHVrQMy&usp
-#EXTINF:-1 tvg-logo="https://shorter.me/uSWbs" group-title="EVENT 025/NOVEMBER/2026",19:15 WIB Persib vs Seoul
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nontonlagi.rctiplus.id/abvia/persib/manifest720.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/uSWbs" group-title="EVENT 025/NOVEMBER/2026",19:15 WIB Persib vs Seoul
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="EVENT 026/NOVEMBER/2026",15:30 WIB Borneo vs Persita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live200.kravonstreamdelivery.com/live/channel1.m3u8
+https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/KfT7PJ2.jpg" group-title="CADANGAN EVENT",PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
@@ -33083,26 +33079,22 @@ https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x9kg0yi
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x985jmm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHq_W-x3VOn-o4kS-mkqoIo0qqnfV14ao-Zw&s" group-title="MOVIES/SERIES KBTRTV" type="movie",Guru-Guru Gokil (2020)
 https://bintangstreaming.my.id/1sultan1/dailymotion.php/.m3u8?id=x8en87f
-#EXTINF:-1 tvg-logo="https://shorter.me/P2FQA" group-title="EVENT 025/NOVEMBER/2026",10:30 WIB Syed Modi India International 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/P2FQA" group-title="EVENT 026/NOVEMBER/2026",11:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=adb4408bd0c003c9ad777dc808e87228&wsABSTime=1795107106
-#EXTINF:-1 tvg-logo="https://shorter.me/P2FQA" group-title="EVENT 025/NOVEMBER/2026",10:30 WIB Syed Modi India International 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/P2FQA" group-title="EVENT 026/NOVEMBER/2026",11:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=0b8d9a0f00a47652799fa4bcc63ff93c&wsABSTime=1794935247
-#EXTINF:-1 tvg-logo="https://shorter.me/P2FQA" group-title="EVENT 025/NOVEMBER/2026",10:30 WIB Syed Modi India International 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/P2FQA" group-title="EVENT 026/NOVEMBER/2026",11:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=d61cb551b32cf149638a1be59eac6c2b&wsABSTime=1794935195
-#EXTINF:-1 tvg-logo="https://shorter.me/P2FQA" group-title="EVENT 025/NOVEMBER/2026",10:30 WIB Syed Modi India International 2026
+#EXTINF:-1 tvg-logo="https://shorter.me/P2FQA" group-title="EVENT 026/NOVEMBER/2026",11:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f8961a9de190d4ba844a475960d230c8&wsABSTime=1794935064
-#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="EVENT 025/NOVEMBER/2026",17:00 WIB Suwon Vixtorm vs Cheonan Skywalkers
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/ljf1nabhhzi8pllpmzmywjh4egcxbzoth3ty/hfkgbvvcmo0klzvozcd4e7sgcxbzotgz9b_hls_playlist.m3u8?hdnts=st=1795599960~exp=1795661170~acl=*/ljf1nabhhzi8pllpmzmywjh4egcxbzoth3ty/*~hmac=ff77864374e51453abfe7b336fd00b27afc85168f7c68346f90f1c4f1edde472
-#EXTINF:-1 tvg-logo="https://shorter.me/yDHTs" group-title="EVENT 025/NOVEMBER/2026",17:00 WIB IBK Altos (W) vs Korea Expressway (W)
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0006/satnuewopdanmtn5funlia0jkgcxc7w4gqkj/k7yqldb3di1c0lkjgdxbxmsgcxc7w4glw7_hls_playlist.m3u8?hdnts=st=1795600038~exp=1795661248~acl=*/satnuewopdanmtn5funlia0jkgcxc7w4gqkj/*~hmac=42e3be3abe857bc401339367e29f196b947ff2e1ed58fb293ded7830c384f724
 #EXTINF:-1 group-title="PERINGATAN",❌ AKSES ILEGAL TERDETEKSI
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 group-title="SUMBER RESMI",👉 DAPATKAN PLAYLIST ASLI & LANCAR
