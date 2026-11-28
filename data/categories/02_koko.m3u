@@ -3276,14 +3276,6 @@ https://ott.rocket-ott.shop/oxygen/index.m3u8?id=indosiar
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://ott.rocket-ott.shop/oxygen/index.m3u8?id=antv
 
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",08:30 WIB Minnesota Timberwolves vs Memphis Grizzlies | NBA Basketball | Server 1 | FAWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/J777QA.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",08:30 WIB Minnesota Timberwolves vs Memphis Grizzlies | NBA Basketball | Server 2 | FAWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/bcc5f539-487e-40c2-bfb2-c48774c7d7ea.m3u8
 #EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:00 WIB Phoenix Suns vs Dallas Mavericks | NBA Basketball | Server 1 | FAWA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -3330,10 +3322,22 @@ https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4jZ7wuPhR9c5HS/playlist.m3u8
 https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4jZ7wsCDYfnA8Y/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:00 WIB yokohama scc vs veertien mie | Japanese Football League | KickLive
 https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4jZ7wNcyES3F8t/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Suntory Sunbirds Osaka VS Wolfdogs Nagoya
+https://site05.superabbit77hd.skin/es/volleyball/sv-league-2283420/suntory-sunbirds-vs-nagoya.html
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Voreas Hokkaido VS Osaka Bluteon
+https://site05.superabbit77hd.skin/es/volleyball/sv-league-2283421/voreas-hokkaido-vs-panasonic-panthers.html
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Okayama Seagulls VS Saga Hisamitsu Springs
+https://site05.superabbit77hd.skin/es/volleyball/sv-league-women-2283424/okayama-seagulls-women-vs-hisamitsu-springs-women.html
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Saitama Ageo Medics VS Gunma Greenwings
+https://site05.superabbit77hd.skin/es/volleyball/sv-league-women-2283422/ageo-women-vs-gunma-bank-green-wings-w.html
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Aleeza Aichi VS Victorina Himeji
+https://site05.superabbit77hd.skin/es/volleyball/sv-league-women-2283423/body-queenseis-women-vs-himeji-victorina-w.html
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Osaka Marvelous VS Toray Arrows Shiga
+https://site05.superabbit77hd.skin/es/volleyball/sv-league-women-2283425/jt-marvelous-women-vs-toray-arrows-women.html
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X0nSArXZS3Y/maxresdefault.jpg"  group-title="EVENT TV 2" type="live" radio="false",华陀逆转晋级，佑丞不敌淘汰 2026 Syed Modi India Internasional Badminton | HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=1b6f2044e8123313886f6310354b82e1&wsTime=6b0ba4ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=e8b3f04da3f3f3036129ea45efb65486&wsTime=6b0bac2e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X0nSArXZS3Y/maxresdefault.jpg"  group-title="EVENT TV 2" type="live" radio="false",李梓嘉不敌淘汰，胡达逆转晋级 2026 Syed Modi India Internasional Badminton | HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=d7b176721e26a8a9b06a86f379a8ada3&wsTime=6b0ba4ae&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=2dfa7615d9f560176a07b85d455b2538&wsTime=6b0bac2f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",Syed Modi India | Court 1
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6088418_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",Syed Modi India | Court 2
@@ -3522,38 +3526,6 @@ https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",09:30 28/11 Los Angeles Clippers vs New Orleans Pelicans | Mason [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756199_hd/1795756199_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",09:30 28/11 Los Angeles Clippers vs New Orleans Pelicans | Mason [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756199_hd/1795756199_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",09:30 28/11 Portland Trail Blazers vs Golden State Warriors | Riko [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756156_hd/1795756156_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",09:30 28/11 Portland Trail Blazers vs Golden State Warriors | Riko [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756156_hd/1795756156_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",09:30 28/11 San Antonio Spurs vs Los Angeles Lakers | Ben [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756238_hd/1795756238_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",09:30 28/11 San Antonio Spurs vs Los Angeles Lakers | Ben [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756238_hd/1795756238_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",09:30 28/11 Utah Jazz vs Denver Nuggets | Nem [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756272_hd/1795756272_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",09:30 28/11 Utah Jazz vs Denver Nuggets | Nem [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756272_hd/1795756272_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/real-salt-lake.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Real Salt Lake vs Vancouver Whitecaps FC | Hấu [HD]
 #EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -3566,22 +3538,8 @@ https://pzhgifbkllliv.vcdn.cloud/1795755146_hd/1795755146_hd@720p.m3u8
 #EXTVLCOPT:http-referrer=https://gavang33.ag/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://apiv3.apifootball.com/badges/290_real-salt-lake.jpg"  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Real Salt Lake vs Vancouver Whitecaps | Bóng đá | MLS | BLV BLV Khô Cá | Main
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
-#EXTINF:-1 tvg-logo="https://apiv3.apifootball.com/badges/290_real-salt-lake.jpg"  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Bóng đá Real Salt Lake vs Vancouver Whitecaps (BLV Khô Cá)
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
-#EXTINF:-1 tvg-logo="https://apiv3.apifootball.com/badges/290_real-salt-lake.jpg"  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Real Salt Lake vs Vancouver Whitecaps | Bóng đá | MLS | BLV BLV Khô Cá | Main
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
-#EXTINF:-1 tvg-logo=""  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Real Salt Lake vs Vancouver Whitecaps (BLV Khô Cá)
-#EXTVLCOPT:http-referrer=https://khoga1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fcca45ef-4fc7-4ba0-bc23-b56f1112b942"  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Real Salt Lake vs Vancouver Whitecaps (NGƯỜI TRÂU) [hls]
+https://hls.lauthaitv.cc/live/realsalt-vancou-mls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original"  group-title="EVENT TV 4 COLATV" type="live" radio="false",11:00 28/11 Vương quốc Anh vs Cộng hòa Séc | Cận [HD]
 #EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -3606,40 +3564,26 @@ https://pzhgifbkllliv.vcdn.cloud/1795755288_hd/1795755288_hd@720p.m3u8
 #EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://pzhgifbkllliv.vcdn.cloud/1795755288_hd/1795755288_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/shimizu-s-pulse.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 Shimizu S-Pulse vs Urawa Red Diamonds | Trĩ [HD]
+#EXTVLCOPT:http-referrer=https://giovang.city/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pzhgifbkllliv.vcdn.cloud/1795755231_hd/1795755231_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/shimizu-s-pulse.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 Shimizu S-Pulse vs Urawa Red Diamonds | Trĩ [Mobile]
+#EXTVLCOPT:http-referrer=https://giovang.city/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://pzhgifbkllliv.vcdn.cloud/1795755231_hd/1795755231_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cda2e60a4e984dc6f4ed091ec44fc5bb.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 FC Anyang vs Jeju SK FC (Gà Siêu Nhí) [HLS]
+#EXTVLCOPT:http-referrer=https://gavang33.ag/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ad010af729c420626d1865ad744168d3.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 FC Seoul vs Daejeon Hana Citizen (Gà Siêu Mõm) [HLS]
+#EXTVLCOPT:http-referrer=https://gavang33.ag/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 Shimizu S-Pulse vs Urawa Red Diamonds (Gà Siêu Tồ) [HLS]
 #EXTVLCOPT:http-referrer=https://gavang33.ag/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/C6oehGYg-YPeUstG1.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",14:00 28/11 Daejeon JKJ Nữ vs IBK Nữ | Sún [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756394_hd/1795756394_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/kashiwa-reysol.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",14:00 28/11 Kashiwa Reysol vs Sanfrecce Hiroshima | Hấu [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795755197_hd/1795755197_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/kashiwa-reysol.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",14:00 28/11 Kashiwa Reysol vs Sanfrecce Hiroshima | Hấu [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795755197_hd/1795755197_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",14:00 28/11 Kashiwa Reysol vs Sanfrecce Hiroshima (Gà Siêu Gáy) [HLS]
-#EXTVLCOPT:http-referrer=https://gavang33.ag/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/vi/thumb/1/12/Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg/250px-Bi%E1%BB%83u_tr%C6%B0ng_c%E1%BB%A7a_TP_HCM.svg.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",14:00 28/11 TP. Hồ Chí Minh vs Hưng Yên (LÃM LÀNG) [geo]
-https://pull.digitalcdn.net/live/92229afd651f464fb174315fc5cede8c/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",14:30 28/11 Bucheon FC 1995 vs Gimcheon Sangmu Football Club (Gà Siêu Péo) [HLS]
-#EXTVLCOPT:http-referrer=https://gavang33.ag/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6f05c460789939ac83282bd0686446f1.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",14:30 28/11 Pohang Steelers vs Gwangju Football Club (Gà Siêu Bệu) [HLS]
-#EXTVLCOPT:http-referrer=https://gavang33.ag/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/8c461c07aaa52929101f0f3f369ce9a1.gif"  group-title="EVENT TV 4 COLATV" type="live" radio="false",15:00 28/11 Bahrain vs Kazakhstan | Ngu [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795575565_hd/1795575565_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/8c461c07aaa52929101f0f3f369ce9a1.gif"  group-title="EVENT TV 4 COLATV" type="live" radio="false",15:00 28/11 Bahrain vs Kazakhstan | Ngu [Mobile]
 #EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
