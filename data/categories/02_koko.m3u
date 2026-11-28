@@ -3276,68 +3276,123 @@ https://ott.rocket-ott.shop/oxygen/index.m3u8?id=indosiar
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://ott.rocket-ott.shop/oxygen/index.m3u8?id=antv
 
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:00 WIB Phoenix Suns vs Dallas Mavericks | NBA Basketball | Server 1 | FAWA
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:35 WIB MotoGP: Motul Grand Prix of Valencia - Free Practice 2 | TNT SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:35 WIB MotoGP: Motul Grand Prix of Valencia - Free Practice 2 | Fancode
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:35 WIB MotoGP: Motul Grand Prix of Valencia - Free Practice 2 | Nonton GP
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+http://master3.s3stream.top/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:35 WIB MotoGP: Motul Grand Prix of Valencia - Free Practice 2 | MOTOGP TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:35 WIB MotoGP: Motul Grand Prix of Valencia - Free Practice 2 | MOTOGP LIVE
+https://s1.strea.ru/index_src/index.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg" group-title="EVENT TV 2" type="live" radio="false",13:30 WIB Syed Modi India International 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=adb4408bd0c003c9ad777dc808e87228&wsABSTime=1795107106
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg" group-title="EVENT TV 2" type="live" radio="false",13:30 WIB Syed Modi India International 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=0b8d9a0f00a47652799fa4bcc63ff93c&wsABSTime=1794935247
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg" group-title="EVENT TV 2" type="live" radio="false",14:00 WIB Daejeon KGC W vs IBK W
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/fbowhy0oohhbffgvts984bhcyhnflwe5sb8y/0y2ueog6b5ddl4re1z9o9xchnflwe5s6ig_hls_playlist.m3u8?hdnts=st=1795848976~exp=1795910186~acl=*/fbowhy0oohhbffgvts984bhcyhnflwe5sb8y/*~hmac=3908af3d89daf82020703596907f38b39331dd9f8f353e5d53d3d0683cbc51a6
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:30 WIB bucheon fc 1995 vs gimcheon sangmu football club | Korean K League 1 | KickLive
+https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3vjxWSoShgQrAC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:30 WIB pohang steelers vs gwangju football club | Korean K League 1 | KickLive
+https://apxvf0ws91.yarncdn.live/live/sd-6Mxk3vjxWZPtK7tbct/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:30 WIB Motogp | Motorsport | TNT SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:30 WIB Motogp | Motorsport | FANCODE - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:30 WIB Motogp | Motorsport | SKY SPORT MIX - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:30 WIB Motogp | Motorsport | MotoGP - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",14:30 WIB Motogp | Motorsport | FANCODE - LQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",15:00 WIB MotoGP Grand Prix of Valencia | MotoGP | FAWA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/A333AA.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:00 WIB Phoenix Suns vs Dallas Mavericks | NBA Basketball | Server 2 | FAWA
+http://193.47.62.41/hls/FRFRFRV.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",15:00 WIB Bahrain vs Kazakhstan | Basketball World Cup | FAWA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/455a78aa-ebde-4f8c-961e-7713ee7246a0.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:30 WIB San Antonio Spurs vs Los Angeles Lakers | NBA Basketball | Server 1 | FAWA
+http://193.47.62.41/hls/cccc.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",15:30 WIB isenmulang kalteng vs pss sleman | Indonesian Super League | KickLive
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiKavpRRvev2Ffu2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",15:30 WIB bali united vs bhayangkara presisi indonesia fc | Indonesian Super League | KickLive
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiKavpRPjB3YRkk8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",15:30 WIB psim yogyakarta vs persatuan sepakbola indonesia jepara | Indonesian Super League | KickLive
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiKavpQu9vjJgqkU/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",15:30 WIB persatuan sepakbola makassar vs dewa united fc | Indonesian Super League | KickLive
+https://apxvf0ws91.yarncdn.live/live/sd-6MxiKavpQrxSrprvba/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg" group-title="EVENT TV 2" type="live" radio="false",15:30 WIB PSM vs Dewa United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel4.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg" group-title="EVENT TV 2" type="live" radio="false",15:30 WIB PSIM Yogyakarta vs Persijap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel13.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg" group-title="EVENT TV 2" type="live" radio="false",15:30 WIB Bali United vs Bhayangkara
+https://live.hztx2020.com/live/14302267_1d1f40baf364056ed8d1f0a0cf15d68c_h360p.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg" group-title="EVENT TV 2" type="live" radio="false",15:30 WIB Bali United vs Bhayangkara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel18.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg" group-title="EVENT TV 2" type="live" radio="false",15:30 WIB Adhyaksa vs PSS Sleman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel22.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",15:40 WIB central coast mariners vs auckland fc | Australia A-League | KickLive
+https://apxvf0ws91.yarncdn.live/live/sd-6MwarNNHHcXgaeLYQ8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",15:45 WIB negeri sembilan vs terengganu fc | Malaysian Super League | KickLive
+https://apxvf0ws91.yarncdn.live/live/sd-6MwarpUT3LkMAA12Zn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",15:45 WIB Negeri Sembilan vs Terengganu | Malaysia Super League | FAWA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/A333AAA.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:30 WIB San Antonio Spurs vs Los Angeles Lakers | NBA Basketball | Server 2 | FAWA
+http://193.47.62.41/hls/ccccQQ.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",16:00 WIB sabah fc vs selangor fc | Malaysian Super League | KickLive
+https://apxvf0ws91.yarncdn.live/live/sd-6MwarpUT3JYsHgB7Qt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",16:00 WIB Sabah vs Selangor | Malaysia Super League | FAWA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/9708676e-06cd-439b-b943-bdfc5d30e828.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:30 WIB Utah Jazz vs Denver Nuggets | NBA Basketball | Server 1 | FAWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/A555AAQA.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:30 WIB Utah Jazz vs Denver Nuggets | NBA Basketball | Server 2 | FAWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/6390b62d-d047-4245-8471-8d8e3203c2c0.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:30 WIB Portland Trail Blazers vs Golden State Warriors | NBA Basketball | Server 1 | FAWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/J777QAA.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:30 WIB Portland Trail Blazers vs Golden State Warriors | NBA Basketball | Server 2 | FAWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/8997538a-28fa-40eb-a9e9-5d6fbd911e49.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:30 WIB Los Angeles Clippers vs New Orleans Pelicans | NBA Basketball | Server 1 | FAWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/A555AAQ.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",09:30 WIB Los Angeles Clippers vs New Orleans Pelicans | NBA Basketball | Server 2 | FAWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S908U) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/299cb8a0-965d-4fee-abea-62fac9d5272d.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:00 WIB honda fc vs criacao shinjuku | Japanese Football League | KickLive
-https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4jZ7wuPhR9c5HS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:00 WIB reinmeer aomori fc vs vonds ichihara | Japanese Football League | KickLive
-https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4jZ7wsCDYfnA8Y/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:00 WIB yokohama scc vs veertien mie | Japanese Football League | KickLive
-https://apxvf0ws91.yarncdn.live/live/sd-6Mxj4jZ7wNcyES3F8t/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Suntory Sunbirds Osaka VS Wolfdogs Nagoya
-https://site05.superabbit77hd.skin/es/volleyball/sv-league-2283420/suntory-sunbirds-vs-nagoya.html
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Voreas Hokkaido VS Osaka Bluteon
-https://site05.superabbit77hd.skin/es/volleyball/sv-league-2283421/voreas-hokkaido-vs-panasonic-panthers.html
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Okayama Seagulls VS Saga Hisamitsu Springs
-https://site05.superabbit77hd.skin/es/volleyball/sv-league-women-2283424/okayama-seagulls-women-vs-hisamitsu-springs-women.html
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Saitama Ageo Medics VS Gunma Greenwings
-https://site05.superabbit77hd.skin/es/volleyball/sv-league-women-2283422/ageo-women-vs-gunma-bank-green-wings-w.html
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Aleeza Aichi VS Victorina Himeji
-https://site05.superabbit77hd.skin/es/volleyball/sv-league-women-2283423/body-queenseis-women-vs-himeji-victorina-w.html
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",11:05 WIB Osaka Marvelous VS Toray Arrows Shiga
-https://site05.superabbit77hd.skin/es/volleyball/sv-league-women-2283425/jt-marvelous-women-vs-toray-arrows-women.html
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X0nSArXZS3Y/maxresdefault.jpg"  group-title="EVENT TV 2" type="live" radio="false",华陀逆转晋级，佑丞不敌淘汰 2026 Syed Modi India Internasional Badminton | HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=e8b3f04da3f3f3036129ea45efb65486&wsTime=6b0bac2e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X0nSArXZS3Y/maxresdefault.jpg"  group-title="EVENT TV 2" type="live" radio="false",李梓嘉不敌淘汰，胡达逆转晋级 2026 Syed Modi India Internasional Badminton | HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=2dfa7615d9f560176a07b85d455b2538&wsTime=6b0bac2f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://193.47.62.41/hls/ccccQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X0nSArXZS3Y/maxresdefault.jpg"  group-title="EVENT TV 2" type="live" radio="false",Syed Modi India Internasional Badminton 2026 | Court 1 | HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=6296f882959de0015ef174b2adccff91&wsTime=6b0beea0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X0nSArXZS3Y/maxresdefault.jpg"  group-title="EVENT TV 2" type="live" radio="false",郡司莉子VS革通 2026 Syed Modi India Internasional Badminton | HUYA CN
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=f548b69cfbcee4b715af10dd69779d12&wsTime=6b0beebd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X0nSArXZS3Y/maxresdefault.jpg"  group-title="EVENT TV 2" type="live" radio="false",郡司莉子VS革通 2026 Syed Modi India Internasional Badminton | HUYA CN
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1-imgplus.flv?wsSecret=33b2505ad386a82a3baebd988ab75a22&wsTime=6b0beec3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X0nSArXZS3Y/maxresdefault.jpg"  group-title="EVENT TV 2" type="live" radio="false",莫迪挑战赛+羽超直播 Badminton直播 | HUYA CN
+http://al.flv.huya.com/src/1199656255873-1199656255873-5842788851378028544-2399312635202-10057-A-0-1.flv?wsSecret=dc8ced2cdfbaaab0e22e0aab23c1d6d3&wsTime=6b0beec5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",Syed Modi India | Court 1
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6088418_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",Syed Modi India | Court 2
@@ -3346,44 +3401,142 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/215_6088422_1.m3u8?auth_key=88039
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6088543_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
 #EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",Syed Modi India | Court 4
 https://yallavoide.yalla-shoot-zhubo.com/sport/215_6088542_1.m3u8?auth_key=880393847-0-0-c14be46ad4ea2616ccfa45ba85197c2f
-#EXTINF:-1 tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg"  group-title="EVENT TV 2" type="live" radio="false",Predator Pro Billiard Series: San Antonio | Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/tivoratvevent.jpeg" group-title="EVENT TV 2" type="live" radio="false",[Belum Mulai] 16:45 WIB MotoGP Qualifying: Motul Grand Prix of Valencia - MotoGP 2026 Round 22
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 16:40 WIB MotoGP Free Practice 1: Motul Grand Prix of Valencia - MotoGP 2026 Round 22
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 16:45 WIB MotoGP Qualifying: Motul Grand Prix of Valencia - MotoGP 2026 Round 22
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 16:40 WIB MotoGP Practice: Motul Grand Prix of Valencia - MotoGP 2026 Round 22
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 20:30 WIB MotoGP Tissot SPRINT: Motul Grand Prix of Valencia - MotoGP 2026 Round 22
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 03:00 WIB Nottingham Forest vs Chelsea
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 15:30 WIB PSM vs Dewa United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel4.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 15:30 WIB PSIM Yogyakarta vs Persijap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel13.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 15:30 WIB Bali United vs Bhayangkara
+https://live.hztx2020.com/live/14302267_1d1f40baf364056ed8d1f0a0cf15d68c_h360p.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 15:30 WIB Bali United vs Bhayangkara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel18.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 15:30 WIB Adhyaksa vs PSS Sleman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel22.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 19:00 WIB Persija vs Garudayaksa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel15.m3u8?wsSecret=bb63de534ee198814c15ad95ee1b0368&wsABSTime=1795893378
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 19:00 WIB Madura United vs Malut United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel14.m3u8?wsSecret=0d60985b7fb50c97bf042f1420a8d2a5&wsABSTime=1795893322
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 22:00 WIB Leeds United vs Coventry City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel11.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 22:00 WIB Manchester United vs Brentford
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 03:00 WIB Levante vs Racing Santander
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 00:30 WIB Ipswich Town vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 20:00 WIB Real Betis vs Rayo Vallecano
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 02:45 WIB Venezia vs Bologna
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 22:15 WIB Málaga vs Athletic Club
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 00:30 WIB Elche vs Atlético Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 03:00 WIB Real Madrid vs Deportivo Alavés
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 21:00 WIB Frosinone vs Parma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 00:00 WIB Torino vs Lazio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 02:30 WIB Werder Bremen vs Borussia M'gladbach
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 02:45 WIB Internazionale vs Genoa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 21:30 WIB Hamburger SV vs Bayern München
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 00:30 WIB Stuttgart vs Eintracht Frankfurt
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 03:00 WIB Southampton vs Middlesbrough
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 19:15 WIB Al Hazm vs Al Nassr
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 21:20 WIB Al Ittifaq vs Al Hilal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 00:45 WIB PSV vs Go Ahead Eagles
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 19:30 WIB Preston North End vs Norwich City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 22:00 WIB West Bromwich Albion vs Bristol City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3401,14 +3554,8 @@ https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=adb4408bd0c003c9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=0b8d9a0f00a47652799fa4bcc63ff93c&wsABSTime=1794935247
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 13:30 WIB Syed Modi India International 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=d61cb551b32cf149638a1be59eac6c2b&wsABSTime=1794935195
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 17:00 WIB Incheon Jumbos vs Uijeongbu KB Insurance Stars
-https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0007/8knltwg5otcw4ydygprsrgrq92vv4rypwnwi/q9fmdqfiw4eneyy6c5hk8tc2vv4rypwj2o_hls_playlist.m3u8?hdnts=st=1795773906~exp=1795835116~acl=*/8knltwg5otcw4ydygprsrgrq92vv4rypwnwi/*~hmac=84d9842a0abae01eed2bf6849da08c931c654dcb151b11dc5e263aa26b23fb43
-#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 17:00 WIB Heungkuk Pink Spiders (W) vs GS Caltex Seoul KIXX (W)
-https://ex-nlive-streaming.navercdn.com/chzzk/lip2_kr/cflexnmss2u0002/ndhiis9ezsitv4ehy9z1rpmhy6zve6nvph2r/tkeltxbvljgo1zyhlkshxya6zve6nvpedd_hls_playlist.m3u8?hdnts=st=1795773852~exp=1795835062~acl=*/ndhiis9ezsitv4ehy9z1rpmhy6zve6nvph2r/*~hmac=228cbad12b62fb817a0d6e266887890d52205173a72ebff92dba5709f4e4b7c2
+#EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 14:00 WIB Daejeon KGC W vs IBK W
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0002/fbowhy0oohhbffgvts984bhcyhnflwe5sb8y/0y2ueog6b5ddl4re1z9o9xchnflwe5s6ig_hls_playlist.m3u8?hdnts=st=1795848976~exp=1795910186~acl=*/fbowhy0oohhbffgvts984bhcyhnflwe5sb8y/*~hmac=3908af3d89daf82020703596907f38b39331dd9f8f353e5d53d3d0683cbc51a6
 #EXTINF:-1  group-logo="https://i.imgur.com/Q8Fvt6V.png" tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false",
 https://shorter.me/MVdCf
 #EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", REQUEST By Rahmat (LAMPUNG) to istri - sabar ya - Rahmat tetap berjuang 🙏
@@ -3417,6 +3564,10 @@ https://drive.google.com/uc?export=download&id=1BDIjTv1ekSTBjdMx6rz5W-Ikdg_HBlxW
 https://drive.google.com/uc?export=download&id=1RCV5OVlWRZntVZ4tDeMYUev8jBXIliGg
 #EXTINF:-1  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", REQUEST By GUITAR FINGERSTYLE - Rindu Almarhum Ayah Tercinta 😭
 https://drive.google.com/uc?export=download&id=125JM4zcC8Fd0fPi6LVyD47SHAPLi273D
+#EXTINF:-1 tvg-id="VOLLBALL"  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 𝙇𝙄𝙑𝙀 - 14;00 WIB |DAEJON VS IBK - VOLLEYBALL V-LEAGUE|
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/ajax/chanel/type/7/link/channel82/off-tvc?is_off_add=false
+https://live1.quickscoreboardz.com/live/channel82/playlist.m3u8?wsSecret=8e29624b09ed84511783fe082ae59daf&wsABSTime=1795889877
 #EXTINF:-1  group-logo="https://i.imgur.com/tIHIIQs.png" tvg-logo="https://kokotv.my.id/Foto/badminton.jpeg" group-title="EVENT TV 3" type="live" radio="false", COURT 1 |24 - 29 NOV 2026| INDIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel60/off-tvc?is_off_add=false
@@ -3519,71 +3670,19 @@ https://sw.run/CAMPWIKI-STARTING-SOON-HD
 https://sw.run/CAMPWIKI-STARTING-SOON-HD
 #EXTINF:-1 tvg-id="PIALA DUNIA U17" group-logo="https://i.imgur.com/1pJHLzm.png"  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false",
 https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
-#EXTINF:-1 tvg-id="PIALA DUNIA U17"  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 23:00 WIB |RUMANIA VS KAMERUN - PIALA DUNIA U-17 2026 QATAR|
-https://live3979.zundrixmediapipeline.com/live/channel19.m3u8
-#EXTINF:-1 tvg-id="PIALA DUNIA U17"  tvg-logo="https://kokotv.my.id/Foto/kokotvevent.jpeg" group-title="EVENT TV 3" type="live" radio="false", 23:00 WIB |VENEZUELA VS MEKSIKO - PIALA DUNIA U-17 2026 QATAR| trud
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/real-salt-lake.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Real Salt Lake vs Vancouver Whitecaps FC | Hấu [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795755146_hd/1795755146_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/real-salt-lake.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Real Salt Lake vs Vancouver Whitecaps FC | Hấu [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795755146_hd/1795755146_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/88620f5162fd07e31d46b44f848bd9e5.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Real Salt Lake vs Vancouver Whitecaps (Gà Siêu Tốc) [HLS]
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",14:30 28/11 Bucheon FC 1995 vs Gimcheon Sangmu Football Club (Gà Siêu Péo) [HLS]
 #EXTVLCOPT:http-referrer=https://gavang33.ag/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/fcca45ef-4fc7-4ba0-bc23-b56f1112b942"  group-title="EVENT TV 4 COLATV" type="live" radio="false",10:00 28/11 Real Salt Lake vs Vancouver Whitecaps (NGƯỜI TRÂU) [hls]
-https://hls.lauthaitv.cc/live/realsalt-vancou-mls/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original"  group-title="EVENT TV 4 COLATV" type="live" radio="false",11:00 28/11 Vương quốc Anh vs Cộng hòa Séc | Cận [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795757228_hd/1795757228_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original"  group-title="EVENT TV 4 COLATV" type="live" radio="false",11:00 28/11 Vương quốc Anh vs Cộng hòa Séc | Cận [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795757228_hd/1795757228_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/4Mqb9BEa-jgOmDmeJ.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",11:05 28/11 Ageo Nữ vs Gunma Greenwings Nữ | Sún [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756310_hd/1795756310_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/4Mqb9BEa-jgOmDmeJ.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",11:05 28/11 Ageo Nữ vs Gunma Greenwings Nữ | Sún [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795756310_hd/1795756310_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/kyoto-sanga.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 Kyoto Sanga vs Cerezo Osaka | Ngọng [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795755288_hd/1795755288_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/kyoto-sanga.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 Kyoto Sanga vs Cerezo Osaka | Ngọng [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795755288_hd/1795755288_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/shimizu-s-pulse.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 Shimizu S-Pulse vs Urawa Red Diamonds | Trĩ [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795755231_hd/1795755231_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/shimizu-s-pulse.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 Shimizu S-Pulse vs Urawa Red Diamonds | Trĩ [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795755231_hd/1795755231_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/cda2e60a4e984dc6f4ed091ec44fc5bb.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 FC Anyang vs Jeju SK FC (Gà Siêu Nhí) [HLS]
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/6f05c460789939ac83282bd0686446f1.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",14:30 28/11 Pohang Steelers vs Gwangju Football Club (Gà Siêu Bệu) [HLS]
 #EXTVLCOPT:http-referrer=https://gavang33.ag/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/ad010af729c420626d1865ad744168d3.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 FC Seoul vs Daejeon Hana Citizen (Gà Siêu Mõm) [HLS]
-#EXTVLCOPT:http-referrer=https://gavang33.ag/
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/8c461c07aaa52929101f0f3f369ce9a1.gif"  group-title="EVENT TV 4 COLATV" type="live" radio="false",15:00 28/11 Bahrain vs Kazakhstan | Ngu [HD]
+#EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",12:00 28/11 Shimizu S-Pulse vs Urawa Red Diamonds (Gà Siêu Tồ) [HLS]
-#EXTVLCOPT:http-referrer=https://gavang33.ag/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/796315.m3u8
+https://pzhgifbkllliv.vcdn.cloud/1795575565_hd/1795575565_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/8c461c07aaa52929101f0f3f369ce9a1.gif"  group-title="EVENT TV 4 COLATV" type="live" radio="false",15:00 28/11 Bahrain vs Kazakhstan | Ngu [Mobile]
 #EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -3604,14 +3703,6 @@ https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJ
 #EXTVLCOPT:http-referrer=https://khoga1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/central-coast-mariners.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",15:40 28/11 Central Coast Mariners FC vs Auckland FC | Trĩ [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574103_hd/1795574103_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/central-coast-mariners.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",15:40 28/11 Central Coast Mariners FC vs Auckland FC | Trĩ [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574103_hd/1795574103_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/4295d4c9acc95550f5a4360f0ba0d93f.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",15:40 28/11 Central Coast Mariners vs Auckland FC (Gà Siêu Kiêu) [HLS]
 #EXTVLCOPT:http-referrer=https://gavang33.ag/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -3632,8 +3723,6 @@ https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXA
 #EXTVLCOPT:http-referrer=https://khoga1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h7vvzq0j6/image/small"  group-title="EVENT TV 4 COLATV" type="live" radio="false",15:40 28/11 Central Coast Mariners vs Auckland FC (LÝ LẠNH LÙNG) [geo]
-https://pull.digitalcdn.net/live/bf353767141446fb8af80b4b3a15d76d/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/dong-thap.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",16:00 28/11 Cao Su Đồng Tháp vs Becamex Bình Dương | Mason [HD]
 #EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -3642,82 +3731,10 @@ https://pzhgifbkllliv.vcdn.cloud/1795574127_hd/1795574127_hd@720p.m3u8
 #EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://pzhgifbkllliv.vcdn.cloud/1795574127_hd/1795574127_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4wxymoep/image/small"  group-title="EVENT TV 4 COLATV" type="live" radio="false",16:00 28/11 Đồng Tháp vs Becamex Hồ Chí Minh (LÃM LÀNG) [geo]
-https://pull.digitalcdn.net/live/adb35e3b19ed4024b7472048ed0ec7ae/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/vi/thumb/f/f6/Emblem_of_Da_Nang_City.png/250px-Emblem_of_Da_Nang_City.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",16:30 28/11 Đà Nẵng vs TP Hồ Chí Minh (LÝ LIỀU LĨNH) [geo]
-https://pull.digitalcdn.net/live/7c8e241ea965460ba0b3eb0476ee0da6/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/binh-dinh.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 Bình Định vs Khánh Hòa | Hấu [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574386_hd/1795574386_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/binh-dinh.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 Bình Định vs Khánh Hòa | Hấu [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574386_hd/1795574386_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/tdtt-bac-ninh.PNG"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 TDTT Bac Ninh vs SHB Đà Nẵng | Súp [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574313_hd/1795574313_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/tdtt-bac-ninh.PNG"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 TDTT Bac Ninh vs SHB Đà Nẵng | Súp [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574313_hd/1795574313_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/Cf2X2OAr-pnSvBhcE.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 TP Hồ Chí Minh vs Hoàng Anh Gia Lai | Bee [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574339_hd/1795574339_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/Cf2X2OAr-pnSvBhcE.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 TP Hồ Chí Minh vs Hoàng Anh Gia Lai | Bee [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574339_hd/1795574339_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/than-quang-ninh.gif"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 Than Quảng Ninh vs TP Hồ Chí Minh | Mù [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574153_hd/1795574153_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/than-quang-ninh.gif"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 Than Quảng Ninh vs TP Hồ Chí Minh | Mù [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574153_hd/1795574153_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/2b794e95819c64c838fd0b228aa31404.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 United Arab Emirates vs Sri Lanka | Ngu [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795575589_hd/1795575589_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/2b794e95819c64c838fd0b228aa31404.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 United Arab Emirates vs Sri Lanka | Ngu [Mobile]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795575589_hd/1795575589_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/40b7d679de613aedfb80bcaba85fa7e0.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 Bac Ninh vs SHB Da Nang (Gà Siêu Mõm) [HLS]
-#EXTVLCOPT:http-referrer=https://gavang33.ag/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 Cong An Ho Chi Minh City vs Hoang Anh Gia Lai (Gà Siêu Ngố) [HLS]
-#EXTVLCOPT:http-referrer=https://gavang33.ag/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gheowwmoep/image/small"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 Hồ Chí Minh vs Hoàng Anh Gia Lai (LÝ LÀNG LÁ) [geo]
-https://pull.digitalcdn.net/live/2079c22670c542d39cc9a9b4c9bf172b/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhz9yxm7vx/image/small"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 TDTT Bắc Ninh vs SHB Đà Nẵng (LÝ LẦY LỘI) [geo]
-https://pull.digitalcdn.net/live/56b2d2417fde49bb88b4890f212f6e32/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/lKSlNof5-GdX8fNqC.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",18:00 28/11 Kuzey Boru Genclik Women vs Vakifbank Women (LÝ LIỀU LĨNH) [geo]
-https://pull.digitalcdn.net/live/7d785054e7f2403f807c6bbc5d859a83/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/5b8a3bb282d72348c18e6338dd8d284c.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",19:00 28/11 Dynamo Dresden vs FC St. Pauli (Gà Ô Long) [HLS]
-#EXTVLCOPT:http-referrer=https://gavang33.ag/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/1f74843bf2ffff474d23d387fa240102.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",19:00 28/11 Hertha Berlin vs Karlsruher SC (Gà Siêu Tốc) [HLS]
-#EXTVLCOPT:http-referrer=https://gavang33.ag/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-logo="https://img.cltvap.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",19:00 28/11 Holstein Kiel vs 1. FC Kaiserslautern (Gà Siêu Kiêu) [HLS]
 #EXTVLCOPT:http-referrer=https://gavang33.ag/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Hanoi.png/250px-Logo_Hanoi.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",19:00 28/11 Hà Nội vs Quảng Ninh (LÝ LIỀU LĨNH) [geo]
-https://pull.digitalcdn.net/live/e0712d06494c4767ae38f1c3dfa640a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/al-hazm.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",19:15 28/11 Al-Hazm vs Al-Nassr FC | Trĩ [HD]
-#EXTVLCOPT:http-referrer=https://giovang.city/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://pzhgifbkllliv.vcdn.cloud/1795574405_hd/1795574405_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/al-hazm.png"  group-title="EVENT TV 4 COLATV" type="live" radio="false",19:15 28/11 Al-Hazm vs Al-Nassr FC | Trĩ [Mobile]
 #EXTVLCOPT:http-referrer=https://giovang.city/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -4311,10 +4328,10 @@ https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-11-24/cp_special_video_ban_q
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdn.24h.com.vn/upload/4-2026/videoclip/2026-11-24/cp_special_video_ban_quyen_khac-1795455230-u17vietnam_newzealand2_720p.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/NCP1GQWgB6c/hq720.jpg?v=6b09ed24&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmyWdzOTQZ-sOu3mjNSgbem_9G3Q" group-title="EVENT TV 5" type="live" radio="false",🔴 SV Werder Bremen vs Borussia Mönchengladbach | BUNDESLIGA... [LIVE - STREAM 1]
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/JDK2qx4TupI/hq720.jpg?v=6b099f25&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw0lSU0cygh4rIih-633ngVsJIFg" group-title="EVENT TV 5" type="live" radio="false",🔴 Live Pertandingan: Piala Menkopolkam | Babak 8 Besar |... [LIVE - STREAM 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://kocet.my.id/event/yt/stream.m3u8?id=NCP1GQWgB6c&stream=1
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/NCP1GQWgB6c/hq720.jpg?v=6b09ed24&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmyWdzOTQZ-sOu3mjNSgbem_9G3Q" group-title="EVENT TV 5" type="live" radio="false",🔴 SV Werder Bremen vs Borussia Mönchengladbach | BUNDESLIGA... [LIVE - STREAM 2]
+https://kocet.my.id/event/yt/stream.m3u8?id=JDK2qx4TupI&stream=1
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/JDK2qx4TupI/hq720.jpg?v=6b099f25&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw0lSU0cygh4rIih-633ngVsJIFg" group-title="EVENT TV 5" type="live" radio="false",🔴 Live Pertandingan: Piala Menkopolkam | Babak 8 Besar |... [LIVE - STREAM 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://kocet.my.id/event/yt/stream.m3u8?id=NCP1GQWgB6c&stream=2
+https://kocet.my.id/event/yt/stream.m3u8?id=JDK2qx4TupI&stream=2
 
